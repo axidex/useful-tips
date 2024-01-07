@@ -1,0 +1,1 @@
+https://snyk.io/advisor/python/httpx/functions/httpx.Client
